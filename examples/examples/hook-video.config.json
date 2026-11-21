@@ -1,0 +1,35 @@
+{
+  "output": { "width": 1080, "height": 1920, "fps": 30 },
+  "font": "fonts/Cairo-Bold.ttf",
+  "narration": "assets/narration.mp3",
+  "scenes": [
+    {
+      "clip": "assets/scene-01-feed.mp4",
+      "overlay": {
+        "text": "ساعتين سكرول... وفي الآخر إيه اللي اتغير؟",
+        "position": "top",
+        "start": 0.2,
+        "end": 3.5
+      }
+    },
+    {
+      "clip": "assets/scene-02-build.mp4",
+      "overlay": {
+        "text": "نزّل الموبايل، وابني حاجة تفضل ليك.",
+        "position": "bottom",
+        "start": 0.0,
+        "end": 3.0
+      }
+    },
+    {
+      "clip": "assets/scene-03-card.mp4",
+      "overlay": {
+        "text": "وقتك أغلى من أي ترند.",
+        "position": "center",
+        "fontsize": 84,
+        "start": 0.3,
+        "end": 2.8
+      }
+    }
+  ]
+}
